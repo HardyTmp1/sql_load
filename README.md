@@ -1,7 +1,7 @@
 # INTRODUCTION 
  📊This project explores the most optimal skills for Data Analysts by analyzing job postings, salary data, and remote work availability. Using SQL, I examined which technical skills🚀 are both in high demand and associated with high-paying remote positions💸. The goal is to identify strategic skills📈 for career growth in data analytics🎩 by intersecting market demand and financial incentives.
 
- SQL queries ? You can take a look of it here : [first_project folder](/sql_load/)
+ SQL queries ? You can take a look of it here : [first_project folder](/sql_load/first_project/)
 
 # BACKGROUND
 The data analytics job market is evolving rapidly🚀, with employers increasingly seeking candidates proficient in a variety of technical tools and platforms👨🏻‍💻. However, not all skills are equally valuable in terms of salary or job availability—especially in a remote work setting🎯.
