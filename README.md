@@ -207,7 +207,7 @@ Core skills like Python, SQL, and R are not only widely required but also linked
 3️⃣ **Data Engineering Skills Boost Earning Potential**
 Skills such as ETL, AWS, and BigQuery—traditionally associated with data engineering—frequently appear in high-paying roles. This suggests that data analysts who can bridge into engineering tasks are especially valuable in the job market.
 
-![Top 10 Highest-paying skills](/assets\Top_10_highest_paying_jobs.jpg)
+![Top 10 Highest-paying skills](/assets/Top_10_highest_paying_jobs.jpg)
 The chart highlights that Pyspark is associated with the highest average salary among the top 10 skills for remote data analyst roles, followed by Bitbucket and Couchbase/Watson. Elasticsearch has the lowest average salary among the top 10 listed.
 
 ### 5.Optimal Skills✨
